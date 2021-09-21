@@ -23,9 +23,6 @@ for i in myElem:
     print(partnumber.text)
 
 
-
-
-
 """
 
         csv writer test code
